@@ -1,0 +1,3 @@
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/cmake-build-debug/CMakeFiles/Labb2.dir

@@ -1,0 +1,8 @@
+﻿  Prime.cpp
+c:\users\stran\documents\visual studio 2017\projects\labb2\labb2\prime.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\stran\documents\visual studio 2017\projects\labb2\labb2\prime.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+c:\users\stran\documents\visual studio 2017\projects\labb2\labb2\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\stran\documents\visual studio 2017\projects\labb2\labb2\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'gdi32.lib'

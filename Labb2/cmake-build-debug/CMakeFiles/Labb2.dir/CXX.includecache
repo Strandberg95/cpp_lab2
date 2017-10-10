@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/main.cpp
+iostream
+-
+part1/header/Prime.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h
+part2/header/StringRep.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/cpp/Prime.cpp
+../header/Prime.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h
+iostream
+-
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/cpp/StringRep.cpp
+iostream
+-
+../header/StringRep.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
+string
+-
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
+string
+-
+iostream
+-
+
