@@ -5,16 +5,19 @@
 #ifndef LABB2_STRINGREP_H
 #define LABB2_STRINGREP_H
 
-#include <string>;
-#include <iostream>;
+#include <string>
+#include <iostream>
 using namespace std;
 
 class StringRep {
 private:
-    string s;
     char* cPtr;
+    int size;
+    char* createCharArr(int const size, string const stringToArr);
+    char* swap(const string& iostring, const string& before, const string& after, const int& sequenceAmount);
+    int countSequences(const string& iostream, const string& before);
 public:
-    StringRep(string s);
+    StringRep();
     void Substitute2(string & iostring, const string& before, const string& after);
     void print();
 };

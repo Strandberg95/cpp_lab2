@@ -24,14 +24,14 @@ void Prime::SieveOfEratosthenes(int& n)
 {
 	bool* arr = createArr(n+1);
 	for (int p = 2; p*p <= n; p++)
-	{
-		if (arr[p])
 		{
-			for (int j = (p * 2); j <= n; j += p)
+			if (arr[p])
 			{
-				arr[j] = false;
+				for (int j = (p * 2); j <= n; j += p)
+				{
+					arr[j] = false;
+				}
 			}
-		}
 	}
 	printArr(arr,n);
 }
