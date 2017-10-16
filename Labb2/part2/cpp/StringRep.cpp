@@ -53,7 +53,7 @@ char* StringRep::swap(const string& iostring, const string& before, const string
             }
             i += swapIndex;
             swapIndex = 0;
-            difference++;
+            difference+=(after.size()-before.size());
         }
         else
         {

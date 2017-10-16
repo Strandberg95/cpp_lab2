@@ -3,10 +3,14 @@
 
 CMakeFiles/Labb2.dir/main.cpp.o: ../main.cpp
 CMakeFiles/Labb2.dir/main.cpp.o: ../part1/header/Prime.h
+CMakeFiles/Labb2.dir/main.cpp.o: ../part2/header/CharRep.h
 CMakeFiles/Labb2.dir/main.cpp.o: ../part2/header/StringRep.h
 
 CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.o: ../part1/cpp/Prime.cpp
 CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.o: ../part1/header/Prime.h
+
+CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.o: ../part2/cpp/CharRep.cpp
+CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.o: ../part2/header/CharRep.h
 
 CMakeFiles/Labb2.dir/part2/cpp/StringRep.cpp.o: ../part2/cpp/StringRep.cpp
 CMakeFiles/Labb2.dir/part2/cpp/StringRep.cpp.o: ../part2/header/StringRep.h

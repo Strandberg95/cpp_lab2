@@ -19,7 +19,6 @@ bool* Prime::createArr(int size)
 	return primeArr;
 }
 
-
 void Prime::SieveOfEratosthenes(int& n)
 {
 	bool* arr = createArr(n+1);
@@ -35,7 +34,6 @@ void Prime::SieveOfEratosthenes(int& n)
 	}
 	printArr(arr,n);
 }
-
 
 void Prime::printArr(bool* arr,int size) 
 {

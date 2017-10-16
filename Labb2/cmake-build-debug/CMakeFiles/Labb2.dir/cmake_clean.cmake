@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Labb2.dir/main.cpp.o"
   "CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.o"
   "CMakeFiles/Labb2.dir/part2/cpp/StringRep.cpp.o"
+  "CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.o"
   "Labb2.pdb"
   "Labb2.exe"
   "libLabb2.dll.a"

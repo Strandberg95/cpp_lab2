@@ -89,7 +89,13 @@
 		<Unit filename="/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h">
 			<Option target="Labb2"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/cpp/CharRep.cpp">
+			<Option target="Labb2"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/cpp/StringRep.cpp">
+			<Option target="Labb2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/CharRep.h">
 			<Option target="Labb2"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h">

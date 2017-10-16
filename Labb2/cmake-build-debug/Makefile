@@ -177,6 +177,33 @@ part1/cpp/Prime.cpp.s:
 	$(MAKE) -f CMakeFiles/Labb2.dir/build.make CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.s
 .PHONY : part1/cpp/Prime.cpp.s
 
+part2/cpp/CharRep.o: part2/cpp/CharRep.cpp.o
+
+.PHONY : part2/cpp/CharRep.o
+
+# target to build an object file
+part2/cpp/CharRep.cpp.o:
+	$(MAKE) -f CMakeFiles/Labb2.dir/build.make CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.o
+.PHONY : part2/cpp/CharRep.cpp.o
+
+part2/cpp/CharRep.i: part2/cpp/CharRep.cpp.i
+
+.PHONY : part2/cpp/CharRep.i
+
+# target to preprocess a source file
+part2/cpp/CharRep.cpp.i:
+	$(MAKE) -f CMakeFiles/Labb2.dir/build.make CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.i
+.PHONY : part2/cpp/CharRep.cpp.i
+
+part2/cpp/CharRep.s: part2/cpp/CharRep.cpp.s
+
+.PHONY : part2/cpp/CharRep.s
+
+# target to generate assembly for a file
+part2/cpp/CharRep.cpp.s:
+	$(MAKE) -f CMakeFiles/Labb2.dir/build.make CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.s
+.PHONY : part2/cpp/CharRep.cpp.s
+
 part2/cpp/StringRep.o: part2/cpp/StringRep.cpp.o
 
 .PHONY : part2/cpp/StringRep.o
@@ -219,6 +246,9 @@ help:
 	@echo "... part1/cpp/Prime.o"
 	@echo "... part1/cpp/Prime.i"
 	@echo "... part1/cpp/Prime.s"
+	@echo "... part2/cpp/CharRep.o"
+	@echo "... part2/cpp/CharRep.i"
+	@echo "... part2/cpp/CharRep.s"
 	@echo "... part2/cpp/StringRep.o"
 	@echo "... part2/cpp/StringRep.i"
 	@echo "... part2/cpp/StringRep.s"

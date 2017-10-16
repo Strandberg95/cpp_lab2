@@ -1,1 +1,1 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Labb2.dir/main.cpp.o CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.o CMakeFiles/Labb2.dir/part2/cpp/StringRep.cpp.o  -o Labb2.exe -Wl,--out-implib,libLabb2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Labb2.dir/main.cpp.o CMakeFiles/Labb2.dir/part1/cpp/Prime.cpp.o CMakeFiles/Labb2.dir/part2/cpp/StringRep.cpp.o CMakeFiles/Labb2.dir/part2/cpp/CharRep.cpp.o  -o Labb2.exe -Wl,--out-implib,libLabb2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

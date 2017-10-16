@@ -13,6 +13,8 @@ part1/header/Prime.h
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h
 part2/header/StringRep.h
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
+part2/header/CharRep.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/CharRep.h
 
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/cpp/Prime.cpp
 ../header/Prime.h
@@ -22,12 +24,24 @@ iostream
 
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part1/header/Prime.h
 
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/cpp/CharRep.cpp
+../header/CharRep.h
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/CharRep.h
+iostream
+-
+
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/cpp/StringRep.cpp
 iostream
 -
 ../header/StringRep.h
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
 cstring
+-
+
+/cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/CharRep.h
+string
+-
+iostream
 -
 
 /cygdrive/c/Users/stran/Documents/Visual Studio 2017/Projects/Labb2/Labb2/part2/header/StringRep.h
